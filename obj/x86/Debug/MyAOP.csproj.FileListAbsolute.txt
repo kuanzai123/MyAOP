@@ -1,0 +1,7 @@
+H:\Project\MyAOP\bin\Debug\MyAOP.exe.config
+G:\MyProject\MyAOP\bin\Debug\MyAOP.exe.config
+G:\MyProject\MyAOP\obj\x86\Debug\MyAOP.csprojResolveAssemblyReference.cache
+G:\MyProject\MyAOP\bin\Debug\MyAOP.exe
+G:\MyProject\MyAOP\bin\Debug\MyAOP.pdb
+G:\MyProject\MyAOP\obj\x86\Debug\MyAOP.exe
+G:\MyProject\MyAOP\obj\x86\Debug\MyAOP.pdb
